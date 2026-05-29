@@ -24,7 +24,7 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap,html" />
 </p>
 
 ### ⚙️ Backend
@@ -36,7 +36,7 @@
 ### 🗄️ Database & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux,git,github,digitalocean" />
 </p>
 
 ---
