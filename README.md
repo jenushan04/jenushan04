@@ -30,7 +30,7 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python,django" />
 </p>
 
 ### 🗄️ Database & Cloud
