@@ -36,7 +36,7 @@
 ### 🗄️ Database & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux,git,github,sql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux,git,github,pgadmin" />
 </p>
 
 ---
